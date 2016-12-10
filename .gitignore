@@ -1,0 +1,6 @@
+a.out
+.DS_Store
+*.h.gch
+*.o
+test.txt
+*.sw*
